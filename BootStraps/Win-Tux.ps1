@@ -1,6 +1,6 @@
 $servers = @{
     "Servidor propio" = "https://gerald-creation-research-smooth.trycloudflare.com/Scripts/Win-Tux/ps1-Core"
-    "GitHub"          = "https://raw.githubusercontent.com/seba819/Win-Tux/refs/heads/main/Scripts/Win-Tux/ps1-Core"
+    "GitHub"          = "https://raw.githubusercontent.com/seba819/Win-Tux/refs/heads/main/Win-Tux/ps1-Core"
 }
 
 $available = $null
